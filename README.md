@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/dotnet%20core%20backend)
+<img alt="Static Badge" src="https://img.shields.io/badge/dotnet%20core%20backend">
+
 
 # Davinder Pal's GitHub Profile
 
