@@ -1,8 +1,11 @@
 ![Static Badge](https://img.shields.io/badge/dotnet_core-backend-blue)
 ![Static Badge](https://img.shields.io/badge/flutter-frontend-red)
-
-
-
+![Static Badge](https://img.shields.io/badge/angular-frontend-green)
+![Static Badge](https://img.shields.io/badge/nodejs-backend-green)
+![Static Badge](https://img.shields.io/badge/ms_sql-database-yellow)
+![Static Badge](https://img.shields.io/badge/azure-cloud-white)
+![Static Badge](https://img.shields.io/badge/aws-cloud-orange)
+![Static Badge](https://img.shields.io/badge/reactjs-frontend-black)
 
 # Davinder Pal's GitHub Profile
 
