@@ -1,4 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/dotnet_core-backend-blue)
+![Static Badge](https://img.shields.io/badge/flutter-frontend-red)
+
 
 
 
