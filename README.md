@@ -24,7 +24,7 @@ GitHub Repository: [[Here]](https://github.com/erdavinder2307)
 
 In my projects, I've utilized a diverse range of technologies, including:
 
-- .NET Core
+- [.NET Core](https://img.shields.io/badge/dotnet_core-backend-blue)
 - Angular
 - ReactJS
 - Flutter
@@ -54,5 +54,3 @@ This project is licensed under Solidev Electrosoft - see the [LICENSE](LICENSE) 
 ---
 
 Thank you for stopping by my GitHub profile. I'm eager to continue sharing my projects and learning from the vibrant GitHub community. Let's continue to transform ideas into reality through code!
-
-**Note:** This is a template for your README file. Customize it with your projects, information, and personal style.
