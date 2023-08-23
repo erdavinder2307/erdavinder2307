@@ -12,13 +12,13 @@ I'm a Chandigarh-based developer with a deep interest in converting ideas into r
 
 Description: Call Pro CRM is a comprehensive customer relationship management (CRM) system designed for efficient call tracking and management. This Flutter-based application integrates with Firebase to provide features such as tracking incoming and outgoing call times, managing sales users, call recording, assigning customers to users, and adding new users. The combination of Flutter's cross-platform capabilities and Firebase's real-time database functionality ensures a seamless and responsive user experience.
 
-GitHub Repository: [[Link to Repository]](https://github.com/erdavinder2307)
+GitHub Repository: [[Here]](https://github.com/erdavinder2307)
 
 ### Electronic Health Record System
 
 Description: The Electronic Health Record (EHR) System is an essential project aimed at revolutionizing the healthcare industry. Developed using .NET Core, Angular, ReactJS, Flutter, MS SQL, Azure, AWS, and CosmosDB, this system enables healthcare professionals to securely manage patient health records. It offers features such as patient data storage, medical history tracking, appointment scheduling, and access control. The use of various cutting-edge technologies ensures optimal performance, scalability, and security.
 
-GitHub Repository:[ [Link to Repository]https://github.com/erdavinder2307](https://github.com/erdavinder2307)
+GitHub Repository: [[Here]](https://github.com/erdavinder2307)
 
 ## Technologies
 
