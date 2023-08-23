@@ -24,7 +24,8 @@ GitHub Repository: [[Here]](https://github.com/erdavinder2307)
 
 In my projects, I've utilized a diverse range of technologies, including:
 
-https://img.shields.io/badge/dotnet_core-backend-blue
+image:https://img.shields.io/badge/:badgeContent/dotnet_core-backend-blue
+
 - Angular
 - ReactJS
 - Flutter
