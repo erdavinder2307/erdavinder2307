@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/dotnet%20core%20backend)
+
 # Davinder Pal's GitHub Profile
 
 Welcome to my GitHub profile! I'm Davinder Pal, a developer based in Chandigarh. I'm passionate about coding, problem-solving, and turning ideas into reality through software development.
