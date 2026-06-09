@@ -102,8 +102,8 @@ Products I've designed, built, and shipped to real users:
 | **AdoPals** | Pet adoption & community platform — Flutter + Firebase | <a href="https://adopals.com" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
 | **DecideMate Pro** | AI-powered decision framework — spin wheel, insights, logic tools | <a href="https://apps.apple.com/us/app/decidemate-pro/id6738579894" target="_blank" rel="noopener noreferrer">📱 App Store</a> |
 | **Solid Store** | Curated app marketplace built on Solidev infrastructure | <a href="https://store.solidevelectrosoft.com" target="_blank" rel="noopener noreferrer">🌐 Website</a> |
-| **SolidTrack** | Real-time asset & field operations tracking system | *In Development* |
-| **Mindset Fuel** | AI-powered habit & mindset coach app | *In Development* |
+| **SolidTrack** | Real-time asset & field operations tracking system | <a href="https://apps.apple.com/us/app/solid-track-app/id6751640011" target="_blank" rel="noopener noreferrer">📱 App Store</a>|
+| **Mindset Fuel** | AI-powered habit & mindset coach app | <a href="https://apps.apple.com/us/app/mindset-fuel/id6757799330" target="_blank" rel="noopener noreferrer">📱 App Store</a> |
 | **ProTech Wallet** | Digital wallet & personal finance tracker | *In Development* |
 
 ---
