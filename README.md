@@ -1,66 +1,119 @@
-![Static Badge](https://img.shields.io/badge/dotnet_core-backend-blue)
-![Static Badge](https://img.shields.io/badge/flutter-frontend-red)
-![Static Badge](https://img.shields.io/badge/angular-frontend-green)
-![Static Badge](https://img.shields.io/badge/nodejs-backend-green)
-![Static Badge](https://img.shields.io/badge/ms_sql-database-yellow)
-![Static Badge](https://img.shields.io/badge/azure-cloud-white)
-![Static Badge](https://img.shields.io/badge/aws-cloud-orange)
-![Static Badge](https://img.shields.io/badge/reactjs-frontend-black)
+<!-- Davinder Pal | GitHub Profile README | Updated 2026 -->
+<div align="center">
 
-# Davinder Pal's GitHub Profile
+# Davinder Pal
+### Founder @ Solidev Electrosoft · Full Stack AI Developer · SaaS Product Builder · Engineering Partner
 
-Welcome to my GitHub profile! I'm Davinder Pal, a developer based in Chandigarh. I'm passionate about coding, problem-solving, and turning ideas into reality through software development.
+[![Website](https://img.shields.io/badge/solidevelectrosoft.com-000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.solidevelectrosoft.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davinder-pal-906a53166)
+[![Twitter](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/davinder2307)
+[![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
 
-## About Me
+**13+ years · 25+ systems delivered · Healthcare · Fintech · Legal Tech · SaaS**
 
-I'm a Chandigarh-based developer with a deep interest in converting ideas into reality through the power of code. My journey in the world of programming has been an exciting one, filled with learning and growth.
-
-## Projects
-
-### Call Pro CRM
-
-Description: Call Pro CRM is a comprehensive customer relationship management (CRM) system designed for efficient call tracking and management. This Flutter-based application integrates with Firebase to provide features such as tracking incoming and outgoing call times, managing sales users, call recording, assigning customers to users, and adding new users. The combination of Flutter's cross-platform capabilities and Firebase's real-time database functionality ensures a seamless and responsive user experience.
-
-GitHub Repository: [[Here]](https://github.com/erdavinder2307)
-
-### Electronic Health Record System
-
-Description: The Electronic Health Record (EHR) System is an essential project aimed at revolutionizing the healthcare industry. Developed using .NET Core, Angular, ReactJS, Flutter, MS SQL, Azure, AWS, and CosmosDB, this system enables healthcare professionals to securely manage patient health records. It offers features such as patient data storage, medical history tracking, appointment scheduling, and access control. The use of various cutting-edge technologies ensures optimal performance, scalability, and security.
-
-GitHub Repository: [[Here]](https://github.com/erdavinder2307)
-
-## Technologies
-
-In my projects, I've utilized a diverse range of technologies, including:
-
-
-- .Net Core
-- Angular
-- ReactJS
-- Flutter
-- MS SQL
-- Azure
-- AWS
-- CosmosDB
-
-## Connect with Me
-
-If you're interested in collaborating, discussing technology, or sharing ideas, you can connect with me on:
-
-- GitHub: [https://github.com/erdavinder2307](https://github.com/erdavinder2307)
-- LinkedIn: [https://www.linkedin.com/in/davinder-pal-906a53166](https://www.linkedin.com/in/davinder-pal-906a53166)
-- Twitter: [https://twitter.com/davinder2307](https://twitter.com/davinder2307)
-
-I'm always excited to connect with fellow developers and enthusiasts who are as passionate about bringing ideas to life as I am.
-
-## Acknowledgments
-
-I want to express my gratitude to all the people who have supported me on my coding journey. Your encouragement and insights have been instrumental in shaping my skills.
-
-## License
-
-This project is licensed under Solidev Electrosoft - see the [LICENSE](LICENSE) file for details.
+</div>
 
 ---
 
-Thank you for stopping by my GitHub profile. I'm eager to continue sharing my projects and learning from the vibrant GitHub community. Let's continue to transform ideas into reality through code!
+## About Me
+
+I'm the founder of **Solidev Electrosoft** — a software product studio building AI-powered
+applications and enterprise systems out of Chandigarh, India.
+
+Over 13+ years, I've shipped production software for **LexisNexis**, **Fairway Independent
+Mortgage Corporation**, and multiple SaaS startups. I've built and launched 8 software products
+across healthcare, fintech, productivity, and consumer platforms.
+
+I build **AI-integrated systems** (OpenAI, Claude, Gemini), architect **cloud-native backends**
+(AWS serverless, Azure, Firebase), and deliver **cross-platform apps** (Flutter, React, Angular)
+that scale.
+
+> **Open to:** SaaS development partnerships · AI system builds · CTO-as-a-service · Upwork projects
+
+---
+
+## Current Focus
+
+- **AI Engineering** — LLM-powered features using OpenAI GPT-4o, Claude (Anthropic), and Google Gemini
+- **SaaS Architecture** — Multi-tenant platforms, subscription billing, serverless-first backends
+- **Product Growth** — Expanding Solidev's suite: 8 live apps across healthcare, fintech, productivity
+- **Engineering Partnerships** — Technical co-founder and CTO-as-a-service for early-stage founders
+
+---
+
+## Featured Products · Solidev Electrosoft
+
+| Product | Category | Stack |
+|---|---|---|
+| **SolidCare** | Healthcare Management | Flutter · .NET Core · Azure |
+| **Solidev Books** | Digital Library & Learning | Flutter · Firebase · AI |
+| **AdoPals** | Pet Adoption & Community | Flutter · Firebase · Dart |
+| **SolidTrack** | Real-Time Asset Tracking | Angular · .NET Core · Azure |
+| **DecideMate Pro** | AI-Powered Decision Framework | Flutter · OpenAI · FastAPI |
+| **Mindset Fuel** | Habit & Mental Performance | Flutter · Firebase |
+| **Solid Store** | White-Label E-Commerce | React · .NET Core · Stripe |
+| **ProTech Wallet** | Digital Wallet & Fintech | Flutter · AWS |
+
+---
+
+## Core Expertise
+
+```
+Frontend     Angular · React · TypeScript · Flutter · React Native
+Backend      .NET Core · FastAPI (Python) · Node.js · REST · GraphQL
+Mobile       Flutter · iOS (Swift) · Android · Offline-First Architecture
+Cloud        Azure · AWS Lambda / API Gateway · Firebase · Docker · CI/CD
+Databases    MS SQL · CosmosDB · MongoDB · PostgreSQL · Firebase Realtime DB
+AI & ML      OpenAI GPT-4o · Claude (Anthropic) · Gemini · LangChain · RAG Pipelines
+```
+
+---
+
+## AI & Cloud Architecture
+
+- Integrated **OpenAI GPT-4o** for document processing, intelligent chatbots, and semantic search
+- Built **Claude-powered** decision-support modules with structured prompt engineering and tool use
+- Deployed **Gemini API** for multimodal content analysis in cross-platform mobile applications
+- Designed **AWS serverless architectures**: Lambda · API Gateway · S3 · DynamoDB · SQS
+- Scaled production backends on **Azure**: App Services · Functions · CosmosDB · B2C · AKS
+- Architected **Firebase-first** real-time platforms with offline-first mobile clients
+
+---
+
+## Selected Enterprise Projects
+
+**Lexis Convey** · *LexisNexis*
+Legal conveyancing platform — .NET, Angular, Azure. Enterprise-scale property transaction processing.
+
+**Electronic Health Record System**
+Multi-tenant EHR — .NET Core, Angular, React, Flutter, Azure. HIPAA-aligned patient lifecycle management.
+
+**Fairway First** · *Fairway Independent Mortgage Corp.*
+Cross-platform mortgage workflow app — Native iOS and Android.
+
+**Core360**
+Enterprise operations portal — React, .NET Core, SQL Server. Business process management at scale.
+
+**Briind**
+Social networking platform — React Native, Node.js, MongoDB. Community-driven professional network.
+
+---
+
+## GitHub Activity
+
+![Davinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdavinder2307&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+## Connect With Me
+
+| Platform | |
+|---|---|
+| **Website** | [solidevelectrosoft.com](https://www.solidevelectrosoft.com) |
+| **LinkedIn** | [linkedin.com/in/davinder-pal-906a53166](https://www.linkedin.com/in/davinder-pal-906a53166) |
+| **Twitter / X** | [@davinder2307](https://twitter.com/davinder2307) |
+| **Hire Me** | [solidevelectrosoft.com/contact](https://www.solidevelectrosoft.com/contact) |
+
+---
+
+<sub>Building production software since 2011 · Chandigarh, India · Founder, Solidev Electrosoft</sub>
