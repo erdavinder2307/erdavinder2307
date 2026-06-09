@@ -1,4 +1,4 @@
-<!-- Davinder Pal | GitHub Profile README | Updated 2026 -->
+[<!-- Davinder Pal | GitHub Profile README | Updated 2026 -->
 <div align="center">
 
 # Davinder Pal
@@ -116,3 +116,4 @@ Social networking platform — React Native, Node.js, MongoDB. Community-driven 
 ---
 
 <sub>Building production software since 2011 · Chandigarh, India · Founder, Solidev Electrosoft</sub>
+](https://www.upwork.com/freelancers/davinderpal?mp_source=share)
