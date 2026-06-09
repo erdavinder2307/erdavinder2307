@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/solidevelectrosoft.com-000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.solidevelectrosoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davinder-pal-906a53166)
-[![Twitter](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/davinder2307)
 [![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/davinderpal)
 
 **13+ years · 25+ systems delivered · Healthcare · Fintech · Legal Tech · SaaS**
